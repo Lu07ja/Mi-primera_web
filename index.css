@@ -24,3 +24,10 @@ body {
     border-radius: 20%;
     margin-right: 15px;
 }
+
+
+@media(max-width: 500px){
+    .mi-header{
+        flex-direction: column;
+    } 
+}
